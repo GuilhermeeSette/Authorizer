@@ -49,6 +49,6 @@ $ pip3 install pytest
 Then, you car run the tests using:
 
 ```bash
-$ pytest
+$ python3 -m pytest
 ```
 
